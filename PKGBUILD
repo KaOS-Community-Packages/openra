@@ -1,5 +1,5 @@
 pkgname=openra
-pkgver=20161015
+pkgver=20161019
 pkgrel=1
 pkgdesc='A multiplayer re-envisioning of early RTS games by Westwood Studios.'
 arch=('x86_64')
