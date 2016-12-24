@@ -7,7 +7,7 @@ url='http://www.openra.net/'
 license=('GPL3')
 depends=("openal" "mono" "freetype2" "glibc" "alsa-lib" "libgl" "xdg-utils" "qarma" "sdl2" "lua")
 source=("https://github.com/OpenRA/OpenRA/releases/download/release-${pkgver}/${pkgname}_release.${pkgver}_all.deb")
-md5sums=('b384fb4c1a20d88732d047d39a2989f2')
+md5sums=('49332ae75fda646d76265944075be022')
 
 package() {
     tar -xvf data.tar.gz -C $pkgdir
